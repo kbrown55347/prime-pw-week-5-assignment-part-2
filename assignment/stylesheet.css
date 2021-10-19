@@ -1,16 +1,20 @@
-header {
+.green {
   background-color: #4E5340;
   color: #E8E8E8;
   text-align: center;
-  padding: 2px;
+  padding: 1em;
 }
 
-main {
+.grey {
   background-color: #E8E8E8;
+  padding: 1em;
+  margin: 10px 0px 0px;
 }
 
 body {
-  background-image: url("record.png"); 
+  background-image: url("record.png");
+  background-repeat: repeat;
+  margin: 0;
 }
 
 
