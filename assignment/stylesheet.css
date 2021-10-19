@@ -1,0 +1,17 @@
+header {
+  background-color: #4E5340;
+  color: #E8E8E8;
+  text-align: center;
+  padding: 2px;
+}
+
+main {
+  background-color: #E8E8E8;
+}
+
+body {
+  background-image: url("record.png"); 
+}
+
+
+/*https://coolors.co/4e5340-697268-95a3a4-b7d1da-e2e8dd*/
