@@ -17,5 +17,13 @@ body {
   margin: 0;
 }
 
-
-/*https://coolors.co/4e5340-697268-95a3a4-b7d1da-e2e8dd*/
+.stripes {
+  text-align: center;
+  padding: 0.5em;
+  color: #4E5340;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-image: linear-gradient(45deg, #daefb3 16.67%, #eef4d4 16.67%, #eef4d4 33.33%, #fff 33.33%, #fff 50%, #daefb3 50%, #daefb3 66.67%, #eef4d4 66.67%, #eef4d4 83.33%, #fff 83.33%, #fff 100%);
+  background-size: 84.85px 84.85px;
+}
